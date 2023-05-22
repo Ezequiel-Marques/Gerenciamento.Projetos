@@ -1,0 +1,2 @@
+C:\Users\Techmind02\source\repos\Gerenciamento.Projetos\obj\Debug\gerenciamento.projetos.esproj.SuggestedBindingRedirects.cache
+C:\Users\Techmind02\source\repos\Gerenciamento.Projetos\obj\Debug\gerenciamento.projetos.esproj.CoreCompileInputs.cache
